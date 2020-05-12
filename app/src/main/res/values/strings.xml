@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">latian</string>
+    <item name="song_title" type="id" />
+    <item name="song_artist" type="id" />
+    <item name="song" type="id" />
+    <drawable name="rand" />
+    <drawable name="end" />
+    <drawable name="play" />
+
+</resources>
